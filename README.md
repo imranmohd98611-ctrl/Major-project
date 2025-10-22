@@ -86,7 +86,7 @@ Machine Learning Intern
 ---
 
 ### 🏷 Repository Information
-- *fair-salary-prediction:* fair-automated-salary-determination  
+- *Major-Project:* fair-automated-salary-determination  
 - *Visibility:* public (recommended for internship submission)  
 - *Files Included:*  
   - archive.zip — Dataset  
